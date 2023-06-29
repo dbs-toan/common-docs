@@ -9,6 +9,6 @@ chmod 600 ./deploy/ssh_key
 
 3. run deploy command using
 ```
-deploy dev
+./deploy/deploy.sh dev
 ```
 ```dev``` is any branch you want to deploy to the dev server
